@@ -1,0 +1,48 @@
+p {
+    font-family: Roboto;
+}
+
+.title-head {
+
+    font-size: 18px;
+    font-weight: bold;
+    width: 300px;
+    line-height: 24px;
+    margin-bottom: 5px;
+}
+
+.views-head {
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    font-family: Arial;
+    margin-top: 0px;
+}
+
+.name-head {
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    font-family: Arial;
+}
+
+.main-para-head {
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    font-family: Arial;
+    width: 300px;
+    line-height: 20px;
+    margin-bottom: 100px;
+}
+
+.end-head {
+    font-size: 14px;
+    background-color: rgb(227, 65, 64);
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.shop-now:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
